@@ -18,7 +18,7 @@ Some aspects that are not integrated:
 -loading
 -adjustable windows size/zoom
 
-This project can be used by anyone, completely open sourse. Do not contact me with issues, please consider that this is not a final product.
+This project can be used by anyone, completely open sourse. Do not contact me with issues, please consider that this is not a final product. The program does not have a .exe, must upload to MS Visual Studio and start.
 
 Thank you,
 Cameron
